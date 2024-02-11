@@ -1,27 +1,36 @@
-# Tshedza
-<h1>Hi, I'm Tshedza! 
 
-<h2>👨‍💻 Team Projects:</h2>
-
-- <b>Team Presentation</b>
-  - [Team Presentation](https://docs.google.com/presentation/d/1uBBFQXBoJ4ECnbBxSo-Hhkj-HyREo08V414mLaKWldE/edit?usp=drive_lin-Presentation)
+<h1>Hi, I'm Tshedza Gomolemo Nembilwi! 
   
-<h2>👨‍💻 Team Projects:</h2>
+<h2>⚡ Professional Identity:</h2>
+  
+<h2>😄 Personal Bio:</h2>
+
+- <b>Personal Bio</b>
+  - [Personal Bio](https://docs.google.com/document/d/1rwfo0nWFp9wBBaNl8b9v6h4sx95_8tD-IGCaOiMZFJw/edit?usp=sharing-PersonalBio)
+
+<h2>🔭 Elevator Pitch:</h2>
+
+- <b>Elevator Pitch</b>
+  - [Elevator Pitch](https://docs.google.com/document/d/1le3cmnSVlqebm9AjsrFednwBtnjTsz54p9XGvDNgKq4/edit?usp=sharing-Elevator)
+
+<h2> 🌱 My Portforlio work:</h2>
+
+  
+<h3>👨‍💻 Team Projects:</h3>
 
 - <b>Team Presentation</b>
   - [Team Presentation](https://docs.google.com/presentation/d/1uBBFQXBoJ4ECnbBxSo-Hhkj-HyREo08V414mLaKWldE/edit?usp=drive_lin-Presentation)
 
-<h2>📺 Popular YouTube </h2>
+<h3>📺 Team Portfolio Project </h3>
 
 
 
-- [How to Create a KeyLogger (C#)](https://youtu.be/d3Aa-XTkVO4?si=4BgdmeZeFUPUlcFN)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [The Infraled Prototype](https://youtube.com/channel/UCETxLk4fCyVXreoFRAF0FAg)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-
+https://www.youtube.com/channel/UCETxLk4fCyVXreoFRAF0FAg
 
 [<img align="left" alt="Tshedza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
