@@ -25,7 +25,7 @@
 
 
 
-- [The Infraled Prototype](https://youtube.com/channel/UCETxLk4fCyVXreoFRAF0FAg)
+- [The Infraled Prototype](https://youtu.be/d3Aa-XTkVO4?si=4BgdmeZeFUPUlcFN)
 
 
 <h2> 🤳 Connect with me:</h2>
