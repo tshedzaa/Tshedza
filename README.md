@@ -1,6 +1,11 @@
 # Tshedza
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Tshedza! 
 
+<h2>👨‍💻 Team Projects:</h2>
+
+- <b>Team Presentation</b>
+  - [Team Presentation](https://docs.google.com/presentation/d/1uBBFQXBoJ4ECnbBxSo-Hhkj-HyREo08V414mLaKWldE/edit?usp=drive_lin-Presentation)
+  
 <h2>👨‍💻 Team Projects:</h2>
 
 - <b>Team Presentation</b>
